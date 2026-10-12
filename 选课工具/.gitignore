@@ -1,0 +1,15 @@
+node_modules/
+.chrome-course-profile/
+selection-result.png
+selection-error.png
+selection-error.html
+selection-after-click.png
+selection-after-click.html
+entry-discovery-error.png
+entry-discovery-error.html
+course-match.png
+course-match.html
+course-match-error.png
+course-match-error.html
+course-search-timeout.png
+course-search-timeout.html

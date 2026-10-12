@@ -1,0 +1,12 @@
+{
+  "name": "nankai-course-selector",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node select-course.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
